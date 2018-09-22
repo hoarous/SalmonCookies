@@ -1,0 +1,15 @@
+#hero{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 72px;
+    color: white;
+    background-image: url("../img/salmon.png"), radial-gradient(salmon,yellow);
+    background-color: salmon;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 60%;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
